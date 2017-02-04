@@ -23,14 +23,14 @@ The dataset includes 8674 seed dispersal interactions (records of pairwise inter
 Carolina Bello, Mauro Galetti, Denise Montan, Tatiane Mariguela, Felipe Pedrosa, Carine Emer, Fábio Labecca, and  Rafaela Constantini 
 Departamento de Ecologia, Universidade Estadual Paulista (UNESP), Rio Claro, São Paulo, 13506-900, Brazil
 
-Marco A. Pizo, Laurance Culot, and Felipe Bufalo
+Marco A. Pizo, Laurance Culot, and Felipe Bufalo    
 Departamento de Zoologia, Universidade Estadual Paulista, Rio Claro, São Paulo, 13506-900, Brazil
 
-Wesley Silva
+Wesley Silva     
 Departamento de Biologia Animal, Instituto de Biologia, UNICAMP, 13083-862 Campinas, Brazil
 
-Carolina Bello, Panu Somervuo and Otso Ovaskainen
+Carolina Bello, Panu Somervuo and Otso Ovaskainen     
 Department of Biosciences, University of Helsinki, P.O. Box 65, FI-00014, Finland
 
-Pedro Jordano
+Pedro Jordano      
 Integrative Ecology Group, Estación Biológica de Doñana, EBD-CSIC, Av. Americo Vespucio s/n, Isla de La Cartuja, 41092 Sevilla, Spain
