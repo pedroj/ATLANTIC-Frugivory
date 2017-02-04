@@ -1,2 +1,4 @@
 # ATLANTIC
 A plant-frugivore interactions dataset for the Atlantic Forest, Brazil.
+This dataset is a compilation of 8674 frugivory interactions reported for the Atlantic Forest biome, SE Brazil. The data set includes interaction of 328 animal species (232 birds, 90 mammals, 5 fish, 3 reptiles, 1 amphibian) with 787 plant species. In most cases, the records are for plant-frugivore interactions where fruit consumption and handling may end up on actual seed dispersal for the plant, yet illustrating ample variation between the extremes of mutualistic and antagosnistic (e.g., pulp consumption) interactions. In addition, the dataset includes trait information on fruit characteristics (fruit and seed size, colour), and frugivores (body mass and gape size, i.e., width of bill at the commissures, Levey 1987).
+
